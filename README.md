@@ -2,7 +2,7 @@
 
 # hey there! 👋
 
-<img src="https://photos.google.com/photo/AF1QipPbxZi0gFpneGWC0kqFwvwJPlsBit2bQlUO-5UA" />
+<img src="[https://photos.google.com/photo/AF1QipPbxZi0gFpneGWC0kqFwvwJPlsBit2bQlUO-5UA](https://in.pinterest.com/pin/867576315731546218/)" />
 
 </div>
 
