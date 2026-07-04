@@ -1,133 +1,130 @@
-<h1 align="center">Hi 👋, I'm Aastha Valand</h1>
+<div align="center">
 
-<h3 align="center">
-AI Enthusiast • Flutter Developer • IT Engineering Student
-</h3>
+# hey there! 👋
 
-<p align="center">
-Passionate about building AI-powered applications that solve real-world problems.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=I'm+Aastha+Valand;AI+Enthusiast;Flutter+Developer;Building+cool+stuff+with+code+💻" />
+
+</div>
 
 ---
 
-# 👩‍💻 About Me
+<table>
+<tr>
 
-🎓 B.Tech Information Technology Student
+<td width="55%">
 
-🤖 Interested in Artificial Intelligence, Machine Learning & Agentic AI
+## 👩‍💻 about me
 
-🌱 Currently learning
-- LangChain
-- LangGraph
-- RAG
-- MCP
-- AI Agents
+```python
+class Aastha:
 
-📱 Flutter Developer
+    education = "B.Tech IT"
+    location = "India 🇮🇳"
 
-💡 Love Hackathons & Open Source
+    currently_learning = [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "MCP",
+        "AI Agents"
+    ]
 
-🎯 Goal: Become an AI Engineer
+    interests = [
+        "AI",
+        "Flutter",
+        "Python",
+        "Hackathons"
+    ]
+
+    motto = "progress > perfection 💜"
+```
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="YOUR_IMAGE_LINK_HERE" width="280"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🚀 Languages
+# ⚡ tech stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,dart,js,ts,cs" />
-</p>
-
----
-
-# 🛠 Frameworks & Technologies
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,django,dotnet,angular,firebase" />
-</p>
-
----
-
-# 🗄 Databases
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=python,dart,js,ts,cs"/>
 </p>
 
----
-
-# ⚙️ Tools
+### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,visualstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,django,dotnet,angular,firebase"/>
 </p>
 
-Google AI Studio • Cursor • ChatGPT • Gemini • n8n
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,postman"/>
+</p>
 
 ---
 
-# 🤖 AI Skills
+# 🚀 featured projects
+
+### 🧠 THERA
+
+> AI-powered mental wellness companion
 
 - Agentic AI
-- Generative AI
-- LangChain
-- LangGraph
-- RAG
 - Prompt Engineering
-- OpenAI API
+- Python
 
 ---
 
-# 📂 Featured Projects
+### 🎬 ShowBuddy
 
-## 🧠 THERA
-AI-powered Mental Wellness Companion
+Flutter Movie Ticket Booking App
 
-**Tech Stack**
-Python • Generative AI • Agentic AI • Prompt Engineering
-
----
-
-## 🎬 ShowBuddy
-Movie Ticket Booking App
-
-**Tech Stack**
-Flutter • Dart • Firebase
+- Flutter
+- Firebase
+- Dart
 
 ---
 
-## 😊 AuraDet
-Real-Time Facial Expression Detection
+### 😊 AuraDet
 
-**Tech Stack**
-Python • OpenCV • CNN • Flask
+Real-time Facial Expression Detection
 
----
-
-## 🤖 Agentic AI Hackathon
-
-AI Workflow Automation using n8n
+- Python
+- OpenCV
+- CNN
 
 ---
 
-# 💼 Internship
+### 🤖 Agentic AI
 
-✔ IBM – Agentic AI
-
-✔ TatvaSoft – .NET Core & PostgreSQL
-
-✔ Infolabz – Flutter & IoT
-
-✔ Infolabz – Django
+Built an AI Agent using n8n workflows.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 github stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -139,14 +136,35 @@ AI Workflow Automation using n8n
 
 ---
 
-# 🌐 Connect with Me
+# 🌱 currently learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_PORTFOLIO)
-
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+- 🤖 Agentic AI
+- 📚 LangChain
+- 🔥 LangGraph
+- 📦 RAG
+- ⚡ MCP
+- 🚀 AI Automation
 
 ---
 
-⭐ *"Learning never stops. Every project is a step toward becoming a better developer."*
+# 📫 connect
+
+<p>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💜 progress > perfection
+
+</div>
