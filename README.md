@@ -32,42 +32,9 @@ Passionate about building intelligent systems, full-stack web applications, and 
 
 ---
 
-### 🏗️ Featured Projects
-
-#### 🧠 **THERA | AI Mental Wellness Companion**
-* **Description:** An AI-powered web application providing smart, empathetic conversational assistance and mental wellness tracking.
-* **Tech Stack:** TypeScript, Firebase, Gemini API, Vercel
-* **GitHub:** [github.com/its-aastha/THERA](https://github.com/its-aastha/THERA)
-
-#### 👁️ **EyesOnUs | AI-Based Student Focus & Exam Monitoring System**
-* **Description:** An advanced computer vision monitoring system that detects student distraction levels in real-time, generates instantaneous alerts, and tracks continuous activity data for historical performance analysis.
-* **Tech Stack:** Python, Flask, OpenCV, MediaPipe, YOLOv8, HTML, CSS, JavaScript
-* **GitHub:** [github.com/its-aastha/EyesOnUs](https://github.com/its-aastha/EyesOnUs)
-
-#### 🎭 **AuraDet | Real-Time Facial Expression Detection**
-* **Description:** A live deep learning application using a custom CNN architecture to read and categorize human facial expressions instantly via webcam streams.
-* **Tech Stack:** Python, OpenCV, Flask, CNN, Deep Learning
-* **GitHub:** [github.com/its-aastha/AuraDet](https://github.com/its-aastha/AuraDet)
-
----
-
-### 🎓 Education
-
-* **B.E. in Information Technology** | Government Engineering College, Gandhinagar — **CGPA: 9.17**
-* **Diploma in Information Technology** | Government Polytechnic, Ahmedabad — **CGPA: 9.43**
-
----
-
-### 📊 GitHub Stats
-![Aastha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-aastha&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-aastha&layout=compact&theme=tokyonight)
-
----
-
 ### 📬 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
 - 🖥️ **GitHub:** [github.com/its-aastha](https://github.com/its-aastha)
 - 📧 **Email:** valandastha@gmail.com
-README.md
-Displaying README.md.
+
