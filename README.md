@@ -1,8 +1,12 @@
 <div align="center">
 
-# hey there! 👋
+<img src="./assets/banner.png" width="100%" />
 
-<img src="[https://photos.google.com/photo/AF1QipPbxZi0gFpneGWC0kqFwvwJPlsBit2bQlUO-5UA](https://in.pinterest.com/pin/867576315731546218/)" />
+# hey, i'm Aastha 👋
+
+### AI Engineer in Progress • Flutter Developer • Python
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=500&lines=Building+cool+AI+Projects;Flutter+Developer;Always+Learning+Something+New;Coffee+%3E+Everything+%E2%98%95" />
 
 </div>
 
@@ -13,37 +17,37 @@
 
 <td width="55%">
 
-## 👩‍💻 about me
+## 💜 about_me.py
 
 ```python
 class Aastha:
 
-    education = "B.Tech IT"
+    role = "IT Engineering Student"
+
     location = "India 🇮🇳"
 
-    currently_learning = [
+    learning = [
         "LangChain",
         "LangGraph",
         "RAG",
-        "MCP",
         "AI Agents"
     ]
 
     interests = [
-        "AI",
+        "Artificial Intelligence",
         "Flutter",
-        "Python",
-        "Hackathons"
+        "Hackathons",
+        "Open Source"
     ]
 
-    motto = "progress > perfection 💜"
+    motto = "Progress > Perfection 💜"
 ```
 
 </td>
 
 <td width="45%" align="center">
 
-<img src="YOUR_IMAGE_LINK_HERE" width="280"/>
+<img src="./assets/girl.png" width="250"/>
 
 </td>
 
@@ -52,7 +56,7 @@ class Aastha:
 
 ---
 
-# ⚡ tech stack
+# ⚡ tech_stack
 
 ### Languages
 
@@ -69,36 +73,34 @@ class Aastha:
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
 </p>
 
-### Tools
+### AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </p>
+
+`OpenAI` • `LangChain` • `LangGraph` • `RAG` • `n8n`
 
 ---
 
-# 🚀 featured projects
+# 🚀 featured_projects
 
 ### 🧠 THERA
 
-> AI-powered mental wellness companion
+AI Mental Wellness Companion
 
-- Agentic AI
-- Prompt Engineering
-- Python
+`Python` `OpenAI` `Prompt Engineering`
 
 ---
 
 ### 🎬 ShowBuddy
 
-Flutter Movie Ticket Booking App
+Movie Ticket Booking App
 
-- Flutter
-- Firebase
-- Dart
+`Flutter` `Firebase`
 
 ---
 
@@ -106,50 +108,49 @@ Flutter Movie Ticket Booking App
 
 Real-time Facial Expression Detection
 
-- Python
-- OpenCV
-- CNN
+`Python` `OpenCV`
 
 ---
 
-### 🤖 Agentic AI
+### 🤖 AI Agent
 
-Built an AI Agent using n8n workflows.
+Hackathon Project
+
+`Agentic AI` `n8n`
 
 ---
 
-# 📊 github stats
+# 📈 github_stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌱 currently learning
+## 🌱 currently_learning
 
 - 🤖 Agentic AI
 - 📚 LangChain
-- 🔥 LangGraph
-- 📦 RAG
-- ⚡ MCP
-- 🚀 AI Automation
+- ⚡ LangGraph
+- 🔥 RAG
+- 🧠 MCP
 
 ---
 
-# 📫 connect
+## 🌐 connect
 
-<p>
+<p align="center">
 
 <a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
