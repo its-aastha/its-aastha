@@ -2,7 +2,7 @@
 
 # hey there! 👋
 
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=I'm+Aastha+Valand;AI+Enthusiast;Flutter+Developer;Building+cool+stuff+with+code+💻](https://photos.google.com/photo/AF1QipPbxZi0gFpneGWC0kqFwvwJPlsBit2bQlUO-5UA)" />
+<img src="https://photos.google.com/photo/AF1QipPbxZi0gFpneGWC0kqFwvwJPlsBit2bQlUO-5UA" />
 
 </div>
 
