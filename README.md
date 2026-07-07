@@ -48,33 +48,6 @@
 
 </details>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=its-aastha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-aastha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-aastha&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-aastha&theme=tokyo-night&hide_border=true" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-## 📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-aastha&color=6C63FF&style=flat-square&label=Profile+Views" />
-</p>
-
 ## 🤝 Let's Connect
 
 <p align="center">
