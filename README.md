@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=IT+Undergrad+%40+GEC+Gandhinagar;Full-Stack+Dev+%7C+Agentic+AI+Enthusiast;Turning+ideas+into+working+code;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Turning+ideas+into+working+Code" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/mSparks43/mSparks43/main/gif/coding.gif" />
