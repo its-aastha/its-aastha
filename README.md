@@ -53,7 +53,7 @@
 <p align="center">
   Always down to talk tech, collab on cool ideas, or just nerd out about AI 🤝
   <br><br>
-  📩 <b>valandastha@gmail.com</b> &nbsp;|&nbsp; 📱 <b>+91 9316338299</b>
+  📩 <b>asthavaland28@gmail.com</b> &nbsp;|&nbsp; </b>
 </p>
 
 <p align="center">
