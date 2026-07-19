@@ -1,95 +1,217 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8D9FF,100:C9A8FF&height=180&section=header&text=AASTHA%20VALAND&fontSize=42&fontColor=2B2140&fontAlignY=40&desc=software%20developer%20%C2%B7%20AI%20agent%20builder%20%C2%B7%20lifelong%20debugger&descAlignY=62&descSize=18&descColor=4A3F63" width="100%"/>
+<h1 align="center">
+Hi, I'm Aastha 👋
+</h1>
 
-I'm a final-year IT engineering student who spends most nights deep in **LLMs, prompt engineering, and agentic AI** — building things that make software feel less like software. I care about clean architecture, fast feedback loops, and shipping things people actually use. Currently exploring how AI agents fit into real-world full-stack products through hands-on internships.
-
-**Find me around the web 🌍**
-
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/its-aastha" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:asthavaland28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-### 🧭 currently
-
-- 🎓 B.E. Information Technology, final year
-- 💼 Interning across full-stack development + agentic AI
-- 🤖 Building with LLMs, prompt engineering & AI agent workflows
-- 🎧 Code compiles faster with music on (unverified, but I believe it)
-
----
-
-### 🧱 what I build with
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,dart,java,js,ts,html,css,angular,django,flutter,dotnet,flask,postgres,mongodb,firebase,git,github,vscode,androidstudio,pycharm" />
-</p>
-
-<details>
-<summary><b>full breakdown</b></summary>
-<br>
-
-| Category | Stack |
-|---|---|
-| **Languages** | Python · Dart · Java · JavaScript · TypeScript |
-| **Web** | HTML · CSS · Angular · Django |
-| **Frameworks/Tools** | Flutter · .NET Core · Flask · REST APIs · OpenCV |
-| **AI / Agentic** | Agentic AI workflows · Generative AI · Google AI Studio · n8n |
-| **Databases** | PostgreSQL · MongoDB · Firebase |
-| **Dev Tools** | VS Code · Android Studio · PyCharm · Cursor · Git/GitHub |
-
-</details>
-
----
-
-### 🚀 things I've shipped
-
-> Swap these for 2–3 of your real repos — this is the section people actually read.
-
-<table>
-<tr>
-<td width="50%">
-
-**[Project Name](https://github.com/its-aastha/repo)**
-One line on what it does and why it's interesting — not just "a web app for X." Mention the hardest problem you solved.
-`Python` `Flask` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-**[Project Name](https://github.com/its-aastha/repo)**
-Same format — what it does, one technical detail worth bragging about, tech used.
-`Flutter` `Firebase`
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 the numbers
+<h3 align="center">
+AI Engineer • Full Stack Developer • Building products with AI
+</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=its-aastha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-aastha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-aastha&theme=tokyonight&hide_border=true" />
+Building intelligent applications using LLMs, Computer Vision and Modern Web Technologies.
 </p>
 
 ---
 
-### 🤝 let's talk
+# 👩‍💻 About Me
 
-Always up for talking tech, collaborating on something interesting, or nerding out about AI agents.
+🎓 B.E. Information Technology Student
+
+💼 Passionate about AI Engineering, Full Stack Development & Computer Vision
+
+🤖 Currently building AI applications using LLMs, Flask, Flutter and Agentic AI
+
+📚 Learning
+
+- LangGraph
+- MCP
+- RAG
+- Multi-Agent Systems
+- System Design
+
+🎯 Goal
+
+Build AI products that solve real-world problems.
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 AuraID
+
+Real-time Facial Expression Recognition using Deep Learning.
+
+**Tech**
+
+Python • Flask • TensorFlow • OpenCV • MediaPipe
+
+✨ Features
+
+- Live Webcam Detection
+- Emotion Analysis
+- Deep Learning Model
+- AI Feedback System
+
+---
+
+## ❤️ THERA
+
+An AI-powered Mental Wellness Companion.
+
+**Tech**
+
+TypeScript • Firebase • Gemini • Vercel
+
+✨ Features
+
+- AI Chat
+- Personalized Support
+- Google Authentication
+- Emotion-aware Responses
+
+---
+
+## 📄 AI Certificate Generator
+
+Generate professional certificates using OCR and LLMs.
+
+**Tech**
+
+Python • OCR • Gemini • PDF Processing
+
+✨ Features
+
+- Read Existing Certificates
+- Smart Text Extraction
+- Generate New Certificate
+- Automatic Formatting
+
+---
+
+# ⚒️ Tech Stack
+
+## Languages
+
+Python • Java • Dart • JavaScript • TypeScript
+
+## AI
+
+TensorFlow
+
+OpenCV
+
+LLMs
+
+Prompt Engineering
+
+LangGraph
+
+RAG
+
+Gemini API
+
+## Backend
+
+Flask
+
+Django
+
+.NET Core
+
+REST APIs
+
+## Frontend
+
+Flutter
+
+Angular
+
+HTML
+
+CSS
+
+## Database
+
+PostgreSQL
+
+MongoDB
+
+Firebase
+
+## Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Cursor
+
+Android Studio
+
+PyCharm
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  📩 <b>asthavaland28@gmail.com</b>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=its-aastha&show_icons=true&theme=default"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=its-aastha&theme=default"/>
+
 </p>
 
-<p align="center"><i>code. break. fix. repeat.</i></p>
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-aastha&layout=compact&theme=default"/>
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+✅ AI Agents
+
+✅ LangGraph
+
+✅ MCP
+
+✅ RAG
+
+✅ Computer Vision
+
+✅ Generative AI
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/its-aastha">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<b>"Build. Learn. Share. Repeat."</b>
+
+</p>
