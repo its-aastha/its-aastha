@@ -1,4 +1,4 @@
-<h3>hi, I'm Aastha 👋</h3>
+
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8D9FF,100:C9A8FF&height=180&section=header&text=AASTHA%20VALAND&fontSize=42&fontColor=2B2140&fontAlignY=40&desc=software%20developer%20%C2%B7%20AI%20agent%20builder%20%C2%B7%20lifelong%20debugger&descAlignY=62&descSize=18&descColor=4A3F63" width="100%"/>
 
