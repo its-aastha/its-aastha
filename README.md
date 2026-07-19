@@ -1,7 +1,12 @@
-<h1 align="center">hi, i'm aastha 👋</h1>
-<h3 align="center">i build things, break things, and (eventually) fix things</h3>
+<h3>hi, I'm Aastha 👋</h3>
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8D9FF,100:C9A8FF&height=180&section=header&text=AASTHA%20VALAND&fontSize=42&fontColor=2B2140&fontAlignY=40&desc=software%20developer%20%C2%B7%20AI%20agent%20builder%20%C2%B7%20lifelong%20debugger&descAlignY=62&descSize=18&descColor=4A3F63" width="100%"/>
+
+I'm a final-year IT engineering student who spends most nights deep in **LLMs, prompt engineering, and agentic AI** — building things that make software feel less like software. I care about clean architecture, fast feedback loops, and shipping things people actually use. Currently exploring how AI agents fit into real-world full-stack products through hands-on internships.
+
+**Find me around the web 🌍**
+
+<p>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/its-aastha" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:asthavaland28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -11,18 +16,16 @@
 
 ### 🧭 currently
 
-```
-🎓  B.E. Information Technology
-💼  Interning across full-stack dev + agentic AI
-🤖  Deep in LLMs, prompt engineering & AI agents
-🎧  Music on = code compiles faster (unverified, but I believe it)
-```
+- 🎓 B.E. Information Technology, final year
+- 💼 Interning across full-stack development + agentic AI
+- 🤖 Building with LLMs, prompt engineering & AI agent workflows
+- 🎧 Code compiles faster with music on (unverified, but I believe it)
 
 ---
 
-### 🧱 what i build with
+### 🧱 what I build with
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,dart,java,js,ts,html,css,angular,django,flutter,dotnet,flask,postgres,mongodb,firebase,git,github,vscode,androidstudio,pycharm" />
 </p>
 
@@ -43,9 +46,9 @@
 
 ---
 
-### 🚀 things i've shipped
+### 🚀 things I've shipped
 
-> Replace these with 2–3 of your actual repos — this section is what recruiters actually read.
+> Swap these for 2–3 of your real repos — this is the section people actually read.
 
 <table>
 <tr>
